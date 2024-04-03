@@ -1,0 +1,9 @@
+.modal-content input[type="text"] {
+    border: none;
+    border-bottom: 1px solid #ccc; /* Add a bottom border */
+    width: calc(100% - 22px); /* Adjust for padding */
+    padding: 5px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    font-size: 11px;
+  }
