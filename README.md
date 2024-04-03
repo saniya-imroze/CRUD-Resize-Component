@@ -8,7 +8,14 @@ This project is a full-stack web application built with React.js for the front e
 - Resizable Components: The front end includes resizable components using react-resizable and react-resizable-panels libraries, providing a flexible and customizable user interface.
 - API Operations: The back end provides RESTful APIs for performing CRUD operations on data stored in MongoDB. It supports POST and PUT requests for creating and updating data.
 - Data Binding: The application utilizes data binding to display changes simultaneously, ensuring a seamless user experience.
-  
+
+
+https://github.com/saniya-imroze/CRUD-Resize-Component/assets/65766813/6374e7fe-041a-474a-8da5-3c1917690fb9
+
+### Database 
+
+  ![Screenshot 2024-04-03 152034](https://github.com/saniya-imroze/CRUD-Resize-Component/assets/65766813/69ae3f7b-052d-4e0e-84c6-e958d75c2d4a)
+
 ## Technologies Used
 
 ### Front End
