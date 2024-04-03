@@ -53,16 +53,12 @@ Define environment variables such as PORT and MongoDB connection URI.
 
 ### Start the back end server:
 
-cd backend
-npm start
+- cd backend
+- npm start
 
 ### Start the front end development server:
 
-cd frontend
-npm start
-Start the front end development server:
-bash
-Copy code
-cd frontend
-npm start
+- cd frontend
+- npm start
+
 Access the application in your web browser at http://localhost:3000.
